@@ -1,2 +1,6 @@
-# global-ui
-Global-Tech Solutions 內部的通用 UI 組件庫 (InnerSource)
+# Global-UI 組件庫
+
+## 🚀 專案簡介
+Global-UI 是 Global-Tech Solutions 的官方 UI 框架。
+
+## 🤝 InnerSource 聲明
